@@ -1,0 +1,25 @@
+body {
+  background-color: aquamarine;
+}
+
+h1,
+p {
+  text-align: center;
+  margin: auto;
+}
+
+p {
+  padding: 0 1rem 0 1rem;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.himalayas-photo {
+  width: 100%;
+  height: auto;
+  min-width: 300px;
+  max-width: 900px;
+}
